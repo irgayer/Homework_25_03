@@ -1,0 +1,24 @@
+<root>
+  <name>Luke Skywalker</name>
+  <height>172</height>
+  <mass>77</mass>
+  <hair_color>blond</hair_color>
+  <skin_color>fair</skin_color>
+  <eye_color>blue</eye_color>
+  <birth_year>19BBY</birth_year>
+  <gender>male</gender>
+  <homeworld>https://swapi.co/api/planets/1/</homeworld>
+  <films>https://swapi.co/api/films/2/</films>
+  <films>https://swapi.co/api/films/6/</films>
+  <films>https://swapi.co/api/films/3/</films>
+  <films>https://swapi.co/api/films/1/</films>
+  <films>https://swapi.co/api/films/7/</films>
+  <species>https://swapi.co/api/species/1/</species>
+  <vehicles>https://swapi.co/api/vehicles/14/</vehicles>
+  <vehicles>https://swapi.co/api/vehicles/30/</vehicles>
+  <starships>https://swapi.co/api/starships/12/</starships>
+  <starships>https://swapi.co/api/starships/22/</starships>
+  <created>2014-12-09T13:50:51.644Z</created>
+  <edited>2014-12-20T21:17:56.891Z</edited>
+  <url>https://swapi.co/api/people/1/</url>
+</root>

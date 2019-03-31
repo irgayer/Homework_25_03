@@ -1,0 +1,11 @@
+C:\Users\вава\source\repos\Homework_25_03\bin\Debug\Homework_25_03.exe.config
+C:\Users\вава\source\repos\Homework_25_03\bin\Debug\Homework_25_03.exe
+C:\Users\вава\source\repos\Homework_25_03\bin\Debug\Homework_25_03.pdb
+C:\Users\вава\source\repos\Homework_25_03\bin\Debug\Newtonsoft.Json.dll
+C:\Users\вава\source\repos\Homework_25_03\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\вава\source\repos\Homework_25_03\bin\Debug\Newtonsoft.Json.xml
+C:\Users\вава\source\repos\Homework_25_03\obj\Debug\Homework_25_03.csprojAssemblyReference.cache
+C:\Users\вава\source\repos\Homework_25_03\obj\Debug\Homework_25_03.csproj.CoreCompileInputs.cache
+C:\Users\вава\source\repos\Homework_25_03\obj\Debug\Homework_25_03.csproj.CopyComplete
+C:\Users\вава\source\repos\Homework_25_03\obj\Debug\Homework_25_03.exe
+C:\Users\вава\source\repos\Homework_25_03\obj\Debug\Homework_25_03.pdb
